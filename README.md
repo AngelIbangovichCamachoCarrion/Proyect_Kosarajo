@@ -34,6 +34,13 @@ Encuentra los **componentes fuertemente conectados** utilizando **DFS** y el gra
 ### 🔹 Tarjan
 Algoritmo basado en **búsqueda en profundidad (DFS)** para encontrar **componentes fuertemente conectados** con baja complejidad temporal.
 
-## 👤 Autor
+## 👤 Autores
+**Edison Giancarlo Garcia Castro**
+
 **Angel Ibangovich**
 
+**Sandra Yasmin Gomez Rodriguez**
+
+**Elias Rodriguez**
+
+**Ingrid Yamileth Ortega Castillo**
